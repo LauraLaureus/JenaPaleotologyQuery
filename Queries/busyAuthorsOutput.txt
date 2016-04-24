@@ -1,0 +1,1248 @@
+-----------------------------------------
+| author                        | count |
+=========================================
+| "Blokhina, N. I."             | 2     |
+| "Bergstrom, J."               | 2     |
+| "Meisel, S."                  | 3     |
+| "Haywood, A. M."              | 6     |
+| "Li, Q."                      | 7     |
+| "Hyzny, M."                   | 2     |
+| "Lim, J.-D."                  | 3     |
+| "Delclos, X."                 | 2     |
+| "Archibald, J.D. "            | 2     |
+| "Fox, R.C."                   | 4     |
+| "Hong, Y. T."                 | 2     |
+| "Foote, M."                   | 2     |
+| "ORR, P. J."                  | 2     |
+| "Biswas, S.P."                | 2     |
+| "Sun, Z.-Y."                  | 2     |
+| "DONOVAN, S. K."              | 7     |
+| "Herrle, J. O."               | 2     |
+| "Hull, D. M."                 | 2     |
+| "Herman, A. B."               | 2     |
+| "Werner, W."                  | 3     |
+| "Rigo, M."                    | 2     |
+| "Tomida, Y."                  | 5     |
+| "Kaiho, K."                   | 2     |
+| "Steuber, T."                 | 2     |
+| "DA SILVA, A. C."             | 2     |
+| "ZATO, M."                    | 2     |
+| "BJUNE, A. E."                | 2     |
+| "Soto-Acuna, S."              | 2     |
+| "Zhang, K."                   | 2     |
+| "Ramanivosoa, B."             | 2     |
+| "Sashida, K."                 | 2     |
+| "Maiorano, P."                | 2     |
+| "Broutin, J."                 | 3     |
+| "Koch, R."                    | 2     |
+| "Clausen, S."                 | 2     |
+| "Sanchez, S."                 | 2     |
+| "Kolar-Jurkovsek, T."         | 4     |
+| "Schlagintweit, F."           | 3     |
+| "Molchanoff, S."              | 2     |
+| "Smith, T."                   | 4     |
+| "Jacobs, B. F."               | 2     |
+| "Luciani, V."                 | 2     |
+| "Girty, G. H."                | 2     |
+| "Lopez-Garcia, J. M."         | 2     |
+| "Yang, Q."                    | 3     |
+| "Rogov, M. A."                | 2     |
+| "De Boer, J. Z."              | 3     |
+| "Setoyama, E."                | 2     |
+| "Murray, A."                  | 2     |
+| "SMITH, M. P."                | 2     |
+| "Hu, Y.-s."                   | 2     |
+| "Wilson, M."                  | 2     |
+| "Hu, S."                      | 2     |
+| "Gamboa, G."                  | 2     |
+| "da Costa, R.M."              | 2     |
+| "Marx, S. K."                 | 2     |
+| "Hu, B."                      | 2     |
+| "Boomer, I."                  | 2     |
+| "Cuenca-Bescos, G."           | 3     |
+| "McCann, T."                  | 4     |
+| "Streng, M."                  | 2     |
+| "Reolid, M."                  | 2     |
+| "Lucas, S. G."                | 6     |
+| "Zhang, S.-K."                | 2     |
+| "Berne, S."                   | 2     |
+| "Wang, W."                    | 5     |
+| "Tazawa, J."                  | 2     |
+| "Liu, X."                     | 3     |
+| "Huang, H."                   | 2     |
+| "Neraudeau, D."               | 3     |
+| "Ivanov, A."                  | 2     |
+| "Cook, T."                    | 2     |
+| "Liu, G."                     | 2     |
+| "Zuschin, M."                 | 2     |
+| "Concheyro, A."               | 3     |
+| "Giuntelli, P."               | 2     |
+| "Martini, R."                 | 3     |
+| "Zhao, Y."                    | 4     |
+| "Li, P."                      | 4     |
+| "Schneider, J. W."            | 2     |
+| "Kuiper, K. F."               | 2     |
+| "Utescher, T."                | 12    |
+| "Tiwari, A. N."               | 2     |
+| "Snetkov, P. B."              | 2     |
+| "Kuss, J."                    | 2     |
+| "McInerney, F.A."             | 2     |
+| "Vullo, R."                   | 2     |
+| "Salamon, M.A. "              | 2     |
+| "Molnar, R."                  | 3     |
+| "Corradini, C."               | 2     |
+| "Hernandez-Almeida, I."       | 2     |
+| "Zhang, H.-c."                | 2     |
+| "Fursich, F.T. "              | 2     |
+| "Mitra, G."                   | 2     |
+| "Pomar, L."                   | 2     |
+| "Bao, R."                     | 2     |
+| "Lunt, D. J."                 | 4     |
+| "Xie, S."                     | 2     |
+| "Jimenez-Sanchez, A."         | 2     |
+| "Hampe, O."                   | 3     |
+| "Witkowski, J."               | 3     |
+| "Moore, F."                   | 2     |
+| "Chablais, J."                | 2     |
+| "Powers, L. A."               | 2     |
+| "Germain, D."                 | 3     |
+| "Simon, M. S."                | 2     |
+| "Andrews, J. T."              | 2     |
+| "Stilwell, J."                | 2     |
+| "Palike, H."                  | 2     |
+| "Izukura, M."                 | 2     |
+| "Ruban, D. A."                | 4     |
+| "Fiske, P. S."                | 2     |
+| "Grein, M."                   | 2     |
+| "Rohl, U."                    | 2     |
+| "Bachmann, G. H."             | 2     |
+| "Twitchett, R. J."            | 3     |
+| "Siverson, M."                | 2     |
+| "Struck, U."                  | 4     |
+| "Oujaa, A."                   | 2     |
+| "Ludvigson, G. A."            | 4     |
+| "Fornaciari, E."              | 2     |
+| "Ni, X.-J."                   | 2     |
+| "Carpenter, K."               | 2     |
+| "Sakai, S."                   | 3     |
+| "Loi, A."                     | 3     |
+| "Csank, A. Z."                | 2     |
+| "Lazarev, S. S."              | 2     |
+| "Servais, T."                 | 6     |
+| "Muttoni, G."                 | 2     |
+| "Cobban, W. A."               | 2     |
+| "Jackson, F."                 | 2     |
+| "Kubo, T."                    | 2     |
+| "Brandoni, D."                | 2     |
+| "Smith, A. B."                | 3     |
+| "Verjovski-Almeida, S."       | 2     |
+| "Zhu, M.-y."                  | 5     |
+| "Arnaud, H."                  | 2     |
+| "Gommery, D."                 | 2     |
+| "Chen, Z. Q."                 | 5     |
+| "Wang, X."                    | 7     |
+| "Baud, A."                    | 2     |
+| "Sennikov, A. G."             | 2     |
+| "Heckert, A. B."              | 3     |
+| "Upchurch, P."                | 2     |
+| "Feldmann, R.M."              | 5     |
+| "Dzyuba, O. S."               | 2     |
+| "Reuter, R."                  | 5     |
+| "Kustatscher, E."             | 5     |
+| "Cui, T."                     | 2     |
+| "De Wever, P."                | 4     |
+| "Russell, L. R."              | 3     |
+| "Basso, D."                   | 3     |
+| "Kurihara, T."                | 3     |
+| "Martins, D.T.O."             | 2     |
+| "SEPP, H."                    | 4     |
+| "Johnson, K. G."              | 2     |
+| "Dean, W. E."                 | 9     |
+| "Squires, R.L."               | 2     |
+| "Schuhmacher, H."             | 2     |
+| "Alcala, L."                  | 2     |
+| "Pittet, B."                  | 3     |
+| "Valdes, P. J."               | 2     |
+| "Grabau, L. J."               | 4     |
+| "Marynowski, L."              | 3     |
+| "Dolan, A. M."                | 2     |
+| "Korth, W.W."                 | 2     |
+| "Landvik, J. Y."              | 2     |
+| "Fraiser, M. L."              | 5     |
+| "Flores, J. A."               | 5     |
+| "Byrne, P. F."                | 2     |
+| "Lee, B.-S."                  | 3     |
+| "Pavia, G."                   | 2     |
+| "Singh, H."                   | 3     |
+| "Schmitz, B."                 | 2     |
+| "Shilts, W. W."               | 2     |
+| "Furio, M."                   | 2     |
+| "Liao, W.-h."                 | 2     |
+| "Pesquero, M. D."             | 2     |
+| "Kobayashi, F."               | 3     |
+| "Basinger, J. F."             | 2     |
+| "Dubey, S.K."                 | 2     |
+| "ARNOLD, L. J."               | 2     |
+| "Zhou, C.-F."                 | 2     |
+| "Debrenne, F."                | 2     |
+| "Sousa, S.M."                 | 2     |
+| "ENGELS, S."                  | 2     |
+| "Fedorowski, J."              | 3     |
+| "Ver Straeten, C. A."         | 2     |
+| "Mohan, K."                   | 2     |
+| "Kermack, D."                 | 2     |
+| "ALEXANDERSON, H."            | 2     |
+| "Hone, D.W.E."                | 3     |
+| "Friis, E. M."                | 2     |
+| "Hall, N. T."                 | 2     |
+| "Herbig, H. G."               | 2     |
+| "KRINGS, M."                  | 2     |
+| "Nagy, J."                    | 2     |
+| "Velichko, A. A."             | 2     |
+| "Rosen, M. R."                | 2     |
+| "Vickers-Rich, P."            | 3     |
+| "Zhou, Z. Y."                 | 2     |
+| "Nebelsick, J. H."            | 4     |
+| "Zhang, Y.-Q."                | 2     |
+| "Arsuaga, J. L."              | 2     |
+| "LINDGREN, J."                | 2     |
+| "Padian, K."                  | 2     |
+| "Louwye, S."                  | 3     |
+| "Amitrov, O. V."              | 3     |
+| "Kumar, V."                   | 2     |
+| "El-Hedeny, M. M."            | 3     |
+| "Esu, D."                     | 2     |
+| "Schoch, R.R."                | 6     |
+| "Voigt, S."                   | 4     |
+| "BIRKS, H. J."                | 4     |
+| "BERNING, B."                 | 2     |
+| "Salyards, S. L."             | 2     |
+| "Goudemand, N."               | 2     |
+| "Agusti, J."                  | 2     |
+| "Jiang, S."                   | 2     |
+| "Suzuki, A."                  | 2     |
+| "Klompmaker, A.A."            | 2     |
+| "Gorini, A."                  | 2     |
+| "Yang, X.-l."                 | 2     |
+| "CURRIE, P. J."               | 2     |
+| "Bercovici, A."               | 2     |
+| "Simpson, E. L."              | 3     |
+| "Koeberl, C."                 | 3     |
+| "Henry, L. C."                | 2     |
+| "Fischer, J."                 | 2     |
+| "Csiki, Z."                   | 9     |
+| "Hetzinger, S."               | 4     |
+| "Reitner, J."                 | 2     |
+| "Yang, S."                    | 2     |
+| "Xiao, S."                    | 3     |
+| "Kosnik, M.A."                | 2     |
+| "Fortelius, M."               | 2     |
+| "Niko, S."                    | 3     |
+| "Ward, D. J."                 | 2     |
+| "Kopylov, D. S."              | 2     |
+| "HOLMER, L. E."               | 3     |
+| "Caze, B."                    | 2     |
+| "Schairer, G."                | 2     |
+| "Tosolini, A. M."             | 2     |
+| "Jiang, B."                   | 2     |
+| "Zhu, M."                     | 3     |
+| "Makled, W.A."                | 2     |
+| "Bengtson, S."                | 3     |
+| "Alberdi, M. T."              | 2     |
+| "Tyszka, J."                  | 3     |
+| "Huang, J."                   | 2     |
+| "Serezhnikova, E. A."         | 2     |
+| "Barrett, P."                 | 2     |
+| "Francois, L."                | 2     |
+| "Clement, G."                 | 2     |
+| "Cozar, P."                   | 4     |
+| "Verna, V."                   | 2     |
+| "Cummins, L. E."              | 2     |
+| "Chatterton, B."              | 2     |
+| "Byrne, T."                   | 2     |
+| "Nahm, W. H."                 | 2     |
+| "Giralt, S."                  | 3     |
+| "Sterling, T. M."             | 2     |
+| "Beserra, T. B."              | 2     |
+| "Meister, C."                 | 5     |
+| "McLoughlin, S."              | 4     |
+| "Mann, P."                    | 5     |
+| "de Lumley, M. A."            | 2     |
+| "HIEMSTRA, J. F."             | 2     |
+| "Girard, C."                  | 2     |
+| "Emeis, K. C."                | 2     |
+| "Lazar, I."                   | 2     |
+| "Wesling, J. R."              | 2     |
+| "Dickinson, W. R."            | 3     |
+| "Katsura, Y."                 | 2     |
+| "Payros, A."                  | 2     |
+| "Michaux, J."                 | 2     |
+| "Osi, A."                     | 2     |
+| "Malaize, B."                 | 2     |
+| "Somerville, I. D."           | 4     |
+| "Komatsu, T."                 | 2     |
+| "Bohme, M."                   | 3     |
+| "Robinson, M. M."             | 2     |
+| "Maeda, H."                   | 2     |
+| "MALETZ, J."                  | 2     |
+| "Vidal, M."                   | 2     |
+| "Sloane, H. J."               | 3     |
+| "Alroy, J."                   | 2     |
+| "Han, J."                     | 2     |
+| "Chapin, C. E."               | 3     |
+| "Reif, W.-E."                 | 3     |
+| "Harris, P. M."               | 2     |
+| "Bannikov, A. F."             | 3     |
+| "Chough, S. K."               | 2     |
+| "Yamamoto, S."                | 2     |
+| "Malvesy, T."                 | 2     |
+| "Liu, Y."                     | 3     |
+| "Liu, Y. S."                  | 3     |
+| "Monaco, P."                  | 2     |
+| "Krings, M."                  | 2     |
+| "Joachimski, M."              | 2     |
+| "Mors, T."                    | 2     |
+| "Gingerich, P.D."             | 2     |
+| "Liu, H."                     | 2     |
+| "MORALES, J."                 | 2     |
+| "BROCK, G. A."                | 2     |
+| "Singh, G."                   | 3     |
+| "De Deckker, P."              | 3     |
+| "Salamon, M.A."               | 2     |
+| "Pagani, M. A."               | 2     |
+| "Sifeddine, A."               | 3     |
+| "Teodoridis, V."              | 2     |
+| "Algeo, T. J."                | 6     |
+| "KLUG, M."                    | 2     |
+| "Benton, M. J."               | 4     |
+| "Lucas, S."                   | 5     |
+| "Averianov, A.O."             | 2     |
+| "Mace-Bordy, J."              | 2     |
+| "Tian, J."                    | 2     |
+| "Rook, L."                    | 2     |
+| "Grabau, L."                  | 3     |
+| "McCoy, W. D."                | 2     |
+| "Nagar, D.P."                 | 2     |
+| "Cai, C. C."                  | 2     |
+| "Reisz, R.R."                 | 2     |
+| "Brunet, M."                  | 3     |
+| "Geraads, D."                 | 2     |
+| "Rahman, I."                  | 2     |
+| "Kowalewski, M."              | 3     |
+| "Zhang, X."                   | 4     |
+| "Spicer, R. A."               | 6     |
+| "Thunell, R. C."              | 2     |
+| "SNOWBALL, I."                | 2     |
+| "Kurihara, Y."                | 2     |
+| "Bartlein, P. J."             | 3     |
+| "Smirnova, T. N."             | 2     |
+| "Crasquin, S."                | 5     |
+| "Andrade-Neto, M."            | 2     |
+| "Cronier, C."                 | 3     |
+| "Casanovas-Vilar, I."         | 3     |
+| "Jin, C.-Z."                  | 2     |
+| "Weidlich, O."                | 2     |
+| "ALDRIDGE, R. J."             | 2     |
+| "Kamiya, T."                  | 2     |
+| "Sayeswara, H.A."             | 2     |
+| "Wladislaw, B."               | 2     |
+| "Schwarz-Wings, D."           | 2     |
+| "Pille, L."                   | 2     |
+| "Wang, B."                    | 6     |
+| "SIVERSON, M."                | 2     |
+| "de Leeuw, A."                | 3     |
+| "Collin, P. Y."               | 2     |
+| "Feng, Q."                    | 3     |
+| "Tabanelli, C."               | 2     |
+| "Nitchman, S. P."             | 2     |
+| "Paupe, P."                   | 2     |
+| "Zelenkov, N. V."             | 3     |
+| "Silver, E. A."               | 2     |
+| "REES, J."                    | 2     |
+| "Klein, N."                   | 4     |
+| "Fursich, F. T."              | 3     |
+| "Bucher, H."                  | 3     |
+| "Gorican, S."                 | 2     |
+| "Kamble, S.S."                | 2     |
+| "Lowemark, L."                | 2     |
+| "Stigall, A. L."              | 2     |
+| "Frey, E."                    | 4     |
+| "Melott, A.L."                | 2     |
+| "Halfar, J."                  | 4     |
+| "KERSHAW, S."                 | 2     |
+| "Takahashi, S."               | 3     |
+| "King, J."                    | 2     |
+| "Chase, R. B."                | 2     |
+| "El Hassani, A."              | 2     |
+| "Kerber, L."                  | 2     |
+| "Desrochers, A."              | 2     |
+| "Feist, R."                   | 2     |
+| "Kitamura, A."                | 3     |
+| "Freiwald, A."                | 2     |
+| "Vermeij, G.J."               | 2     |
+| "Rodriguez-Tovar, F. J."      | 2     |
+| "Tafforeau, P."               | 3     |
+| "DE LA FUENTE, M. S."         | 2     |
+| "Boukhary, M."                | 3     |
+| "Goy, A."                     | 2     |
+| "Kanade, M.B."                | 3     |
+| "Wible, J.R."                 | 2     |
+| "Bartholomew, A. J."          | 2     |
+| "Joyce, W.G."                 | 3     |
+| "Zhang, Y.-d."                | 2     |
+| "Lehnert, O."                 | 4     |
+| "Cohen, A. S."                | 7     |
+| "Weber, L. J."                | 2     |
+| "Kozur, H. W."                | 3     |
+| "Matsuoka, K."                | 2     |
+| "Schiebel, R."                | 2     |
+| "Ernst, A."                   | 3     |
+| "Henry, T. W."                | 2     |
+| "Zhang, Y."                   | 3     |
+| "Wu, F."                      | 2     |
+| "Fillmore, D."                | 3     |
+| "Waterhouse, J. B."           | 2     |
+| "Quesnel, F."                 | 2     |
+| "Koenemann, S."               | 2     |
+| "Mitta, V. V."                | 4     |
+| "HEGNA, T. A."                | 2     |
+| "Sun, G."                     | 3     |
+| "Grillo, O.N."                | 2     |
+| "Rodriguez, S."               | 7     |
+| "Zhang, H."                   | 6     |
+| "Merceron, G."                | 2     |
+| "Nikolajev, G. V."            | 2     |
+| "Liu, J."                     | 9     |
+| "Sprinkle, J."                | 2     |
+| "Mosbrugger, V."              | 9     |
+| "Friedrich, O."               | 2     |
+| "Bailon, S."                  | 4     |
+| "Soester, J."                 | 5     |
+| "Jurkovsek, B."               | 4     |
+| "Grevelding, C.G."            | 2     |
+| "Lecuyer, C."                 | 3     |
+| "Gorochov, A. V."             | 2     |
+| "Jenkyns, H. C."              | 2     |
+| "Schweitzer, C.E."            | 5     |
+| "Stoica, M."                  | 2     |
+| "Maslova, N. P."              | 2     |
+| "Brandt, S."                  | 2     |
+| "Tutken, T."                  | 3     |
+| "Baudin, F."                  | 2     |
+| "AMESBURY, M. J."             | 2     |
+| "Venczel, M."                 | 2     |
+| "BOULVAIN, F."                | 2     |
+| "Wehrmann, A."                | 2     |
+| "Geary, D.H."                 | 2     |
+| "Uhl, D."                     | 3     |
+| "Mayle, F. E."                | 2     |
+| "Zelenitsky, D."              | 2     |
+| "Rohrmuller, J."              | 2     |
+| "Bradbury, J. P."             | 6     |
+| ""                            | 8     |
+| "Bultynck, P."                | 3     |
+| "Stromberg, C. A. E."         | 2     |
+| "Ruiz, F."                    | 2     |
+| "De Schepper, S."             | 3     |
+| "Azevedo, S.A.K."             | 4     |
+| "Niu, Y."                     | 2     |
+| "Varricchio, D."              | 3     |
+| "Fryda, J."                   | 2     |
+| "Yadav, A."                   | 2     |
+| "Fozy, I."                    | 2     |
+| "Schneider, S."               | 4     |
+| "Singh, A."                   | 3     |
+| "Harris, J.D."                | 2     |
+| "Jones, W."                   | 2     |
+| "Hinnov, L. A."               | 2     |
+| "Tikader, A."                 | 2     |
+| "Webster, G. D."              | 2     |
+| "Dettman, D. L."              | 2     |
+| "UNDERWOOD, C. J."            | 2     |
+| "McCarthy, P. J."             | 3     |
+| "SKOVSTED, C. B."             | 3     |
+| "Del Rio, C.J."               | 3     |
+| "BRIGGS, D. E."               | 2     |
+| "Nott, J."                    | 2     |
+| "Vianey-Liaud, M."            | 2     |
+| "Semal, P."                   | 2     |
+| "Dowsett, H. J."              | 4     |
+| "Pojeta, J."                  | 2     |
+| "Zagorsek, K."                | 4     |
+| "Benton, M.J."                | 2     |
+| "Mandic, O."                  | 4     |
+| "Hasegawa, T."                | 2     |
+| "Burn, M. J."                 | 2     |
+| "Lyson, T.R."                 | 3     |
+| "Zhang, Z."                   | 7     |
+| "Singh, Y.P."                 | 2     |
+| "Day, H. W."                  | 2     |
+| "Schwarcz, H. P."             | 2     |
+| "Boal, D."                    | 2     |
+| "Jiang, D.-Y."                | 2     |
+| "Afanasjeva, G. A."           | 3     |
+| "Hunt, G."                    | 4     |
+| "Taghipour, B."               | 3     |
+| "Steinke, S."                 | 2     |
+| "Matsuoka, H."                | 3     |
+| "Calner, M."                  | 4     |
+| "Willumsen, P. S."            | 2     |
+| "Miyata, K."                  | 2     |
+| "Prakash, K."                 | 2     |
+| "Roberts, E. M."              | 2     |
+| "Brown, E. T."                | 5     |
+| "Kellogg, J. N."              | 2     |
+| "Salzmann, U."                | 2     |
+| "Apesteguia, S."              | 4     |
+| "Kase, T."                    | 3     |
+| "Sprovieri, M."               | 2     |
+| "Marcolini, F."               | 2     |
+| "Zhou, A."                    | 2     |
+| "Gianechini, F.A."            | 2     |
+| "Dorobek, S. L."              | 2     |
+| "Shu, D."                     | 3     |
+| "FEARNHEAD, F. E."            | 3     |
+| "Racheboeuf, P.R."            | 3     |
+| "Koneva, S. P."               | 2     |
+| "SIMONS, E. L."               | 2     |
+| "Saveliev, S. V."             | 2     |
+| "Hautmann, M."                | 2     |
+| "Schiffman, P."               | 2     |
+| "Gorzelak, P."                | 5     |
+| "Wang, Q."                    | 7     |
+| "Groeneveld, J."              | 2     |
+| "Krger, B."                   | 3     |
+| "Ren, D."                     | 5     |
+| "Galbrun, B."                 | 2     |
+| "Fernandez Marron, M. T."     | 2     |
+| "LARSEN, E."                  | 2     |
+| "Lefebvre, B."                | 4     |
+| "Hirayama, R."                | 2     |
+| "Yamaguchi, T."               | 2     |
+| "Qiu, Z.-D."                  | 2     |
+| "Subramanya, G."              | 2     |
+| "Sinninghe Damste, J. S."     | 2     |
+| "Schlogl, J."                 | 3     |
+| "Gallina, P.A."               | 3     |
+| "Raia, P."                    | 2     |
+| "Tietz, O."                   | 2     |
+| "Polcyn, M.J."                | 2     |
+| "Skovsted, C.B."              | 3     |
+| "Therrien, F."                | 3     |
+| "Onoue, T."                   | 3     |
+| "He, W."                      | 2     |
+| "Kuwahara, K."                | 2     |
+| "Cavallo, O."                 | 2     |
+| "Yamamoto, N."                | 2     |
+| "Rio, D."                     | 2     |
+| "Yao, Y. F."                  | 3     |
+| "Knoll, F."                   | 2     |
+| "Rubilar-Rogers, D."          | 2     |
+| "Rankin, B.D."                | 2     |
+| "Vignaud, P."                 | 3     |
+| "Gibling, M. R."              | 2     |
+| "Scholz, H."                  | 3     |
+| "Verniers, J."                | 2     |
+| "Zunino, M."                  | 2     |
+| "Peng, J."                    | 7     |
+| "Suzuki, N."                  | 3     |
+| "Blain, H. A."                | 2     |
+| "Steyer, J. S."               | 2     |
+| "Smith, A.B."                 | 2     |
+| "Escarguel, G."               | 2     |
+| "Monechi, S."                 | 3     |
+| "Bubik, M."                   | 2     |
+| "CLARKSON, E. N."             | 3     |
+| "Ladeveze, S."                | 2     |
+| "Yang, Y."                    | 3     |
+| "Niedzwiedzki, G."            | 2     |
+| "Zhang, J."                   | 4     |
+| "Munnecke, A."                | 5     |
+| "Scholz, C. A."               | 4     |
+| "Giersch, S."                 | 2     |
+| "Yang, H."                    | 4     |
+| "Molina, E."                  | 2     |
+| "BRASIER, M. D."              | 2     |
+| "Almogi-Labin, A."            | 2     |
+| "Carter, E. S."               | 2     |
+| "Jagt, J.W.M."                | 2     |
+| "Hibbard, J. P."              | 4     |
+| "Hayward, B. W."              | 2     |
+| "Fang, X."                    | 2     |
+| "Zonneveld, J. P."            | 2     |
+| "SCHOENEMANN, B."             | 2     |
+| "Korn, D."                    | 9     |
+| "Bruhwiler, T."               | 2     |
+| "Lea, D. W."                  | 2     |
+| "Kear, B."                    | 7     |
+| "Renema, W."                  | 3     |
+| "Steneck, R. S."              | 2     |
+| "Badiola, A."                 | 2     |
+| "Li, J."                      | 3     |
+| "Palmqvist, P."               | 2     |
+| "Kaljo, D."                   | 4     |
+| "Alve, E."                    | 2     |
+| "Clark, P. U."                | 2     |
+| "DiTullio, L."                | 4     |
+| "Iljina, L. B."               | 2     |
+| "BARRETT, P. M."              | 2     |
+| "Uchman, A."                  | 4     |
+| "Melnikova, L. M."            | 2     |
+| "Leng, X. T."                 | 2     |
+| "Cabrera, L."                 | 2     |
+| "Davis, M."                   | 2     |
+| "Reis, L. C."                 | 2     |
+| "Bougariane, B."              | 2     |
+| "Han, W."                     | 2     |
+| "Ahlberg, P. E."              | 2     |
+| "Barcena, M. A."              | 2     |
+| "Pole, M."                    | 3     |
+| "Rozefelds, A."               | 2     |
+| "Abrunhosa, F."               | 2     |
+| "Pickford, M."                | 4     |
+| "Leighton, L. R."             | 2     |
+| "Ghosh, D. K."                | 2     |
+| "Xiao, G."                    | 3     |
+| "O'Dogherty, L."              | 2     |
+| "Underwood, M. B."            | 4     |
+| "Song, J.Y."                  | 2     |
+| "ROBERTS, R. G."              | 2     |
+| "Fillmore, D. L."             | 2     |
+| "Holmer, L. E."               | 2     |
+| "Gingras, M."                 | 3     |
+| "CREMER, H."                  | 2     |
+| "Lim, J."                     | 2     |
+| "Wei, J."                     | 2     |
+| "Ferguson, D. K."             | 2     |
+| "Marshall, J. E."             | 3     |
+| "Fourvel, J.B."               | 2     |
+| "Marsili, S."                 | 2     |
+| "Zeng, Q.-l."                 | 2     |
+| "Avermann, M."                | 2     |
+| "Falcon-Lang, H. J."          | 2     |
+| "Nicosia, U."                 | 2     |
+| "Saez, A."                    | 3     |
+| "Kidwell, S.M."               | 4     |
+| "Nolvak, J."                  | 4     |
+| "Ahrens, T. J."               | 2     |
+| "Horton, B. P."               | 2     |
+| "BENGTSON, S."                | 2     |
+| "Brett, C. E."                | 7     |
+| "Owen, A. W."                 | 2     |
+| "O Connor, P. M."             | 2     |
+| "Zhang, Z.-Q."                | 5     |
+| "Harzhauser, M."              | 5     |
+| "Price, G. D."                | 2     |
+| "Shen, S.-Z."                 | 2     |
+| "Vaughan, P. R."              | 2     |
+| "Vishnevskaya, V. S."         | 2     |
+| "Tong, H."                    | 2     |
+| "Kouchinsky, A."              | 2     |
+| "Gross, M."                   | 2     |
+| "Galacz, A."                  | 2     |
+| "Pavia, M."                   | 2     |
+| "Vega, F.J."                  | 2     |
+| "Langer, M.R."                | 2     |
+| "Szrek, P."                   | 2     |
+| "Schmidt, C. J."              | 3     |
+| "Anderson, R. Y."             | 5     |
+| "Sathe, T.V."                 | 2     |
+| "Han, N.-r."                  | 2     |
+| "Rieppel, O."                 | 2     |
+| "Delattre, M. P."             | 2     |
+| "Stevens, N. J."              | 2     |
+| "Schweigert, G."              | 5     |
+| "Harper, D. A."               | 4     |
+| "Sha, J."                     | 2     |
+| "Shrivastava, J.N."           | 2     |
+| "Blondel, C."                 | 2     |
+| "Zhu, X.-j."                  | 3     |
+| "Kerp, H."                    | 2     |
+| "Zalasiewicz, J. A."          | 2     |
+| "Siveter, D. J."              | 3     |
+| "Jiang, H."                   | 3     |
+| "Sprowl, D. R."               | 2     |
+| "Martin, A."                  | 2     |
+| "Hohenegger, J."              | 2     |
+| "EVANS, D. J."                | 2     |
+| "Sierro, F. J."               | 5     |
+| "Cione, A. L."                | 2     |
+| "Williams, M."                | 6     |
+| "Enos, P."                    | 2     |
+| "HARPER, D. A."               | 2     |
+| "Aufgebauer, A."              | 2     |
+| "Kellner, A.W.A."             | 10    |
+| "POTT, C."                    | 2     |
+| "Mix, A. C."                  | 2     |
+| "Lin, Q. H."                  | 2     |
+| "WANG, Y."                    | 2     |
+| "Defant, M. J."               | 2     |
+| "Krystyn, L."                 | 2     |
+| "Patil, A.E."                 | 2     |
+| "Meyer, C. A."                | 2     |
+| "Ifrim, C."                   | 4     |
+| "Massari, F."                 | 2     |
+| "Adey, W."                    | 2     |
+| "Ponomarenko, A. G."          | 3     |
+| "Hong, B."                    | 2     |
+| "Tanaka, G."                  | 2     |
+| "Figueirido, B."              | 2     |
+| "Acosta Hospitaleche, C."     | 2     |
+| "Rich, T."                    | 3     |
+| "Bethoux, O."                 | 3     |
+| "Feldmann, R. M."             | 6     |
+| "Key, M.M."                   | 2     |
+| "Egi, N."                     | 2     |
+| "Miller, G. H."               | 2     |
+| "Stoetzel, E."                | 2     |
+| "Goldberg, K."                | 2     |
+| "Hussein-Kamel, Y."           | 2     |
+| "Murphy, B.R. "               | 2     |
+| "Kettler, T."                 | 5     |
+| "Woo, J."                     | 2     |
+| "Yang, J."                    | 4     |
+| "Won, M.-Z."                  | 2     |
+| "Young, S. A."                | 2     |
+| "ZAMORA, S."                  | 2     |
+| "VIZCANO, S. F."              | 2     |
+| "Bateman, M. D."              | 2     |
+| "AUSICH, W. I."               | 2     |
+| "Reguero, M."                 | 2     |
+| "HUGHES, P. D."               | 2     |
+| "Suc, J. P."                  | 2     |
+| "Mamo, M."                    | 7     |
+| "Valenzuela-Rios, J.I. "      | 2     |
+| "Bitner, M.A."                | 4     |
+| "Colman, S. M."               | 2     |
+| "Klein, H."                   | 2     |
+| "Nyvall, R. F."               | 4     |
+| "Di Stefano, A."              | 2     |
+| "Szabad, M."                  | 2     |
+| "Lord, A."                    | 2     |
+| "Morales, J."                 | 3     |
+| "GORZELAK, P."                | 3     |
+| "Neumann, C."                 | 2     |
+| "Godthelp, H."                | 2     |
+| "Johnson, T. C."              | 6     |
+| "ERIKSSON, M. E."             | 2     |
+| "Peel, J."                    | 2     |
+| "Harwood, D. M."              | 3     |
+| "Martinez, S."                | 2     |
+| "Druger, M."                  | 3     |
+| "Ellwood, B. B."              | 2     |
+| "Agnolin, F. L."              | 2     |
+| "Srivastava, A. K."           | 2     |
+| "Chen, J."                    | 4     |
+| "Vachard, D."                 | 5     |
+| "Namuth, D. M."               | 3     |
+| "Mallison, H."                | 3     |
+| "Song, H."                    | 3     |
+| "Li, Y."                      | 4     |
+| "Krainer, K."                 | 4     |
+| "Markgraf, V."                | 2     |
+| "Ngasala, S."                 | 2     |
+| "Videt, B."                   | 2     |
+| "Nunn, E. V."                 | 2     |
+| "Taboada, A. C."              | 2     |
+| "Maas, A."                    | 2     |
+| "Jalil, N. E."                | 2     |
+| "Muller, J."                  | 2     |
+| "Hanson, K. L."               | 3     |
+| "Ekdale, A. A."               | 2     |
+| "Macchiarelli, R."            | 2     |
+| "Patzkowsky, M. E."           | 2     |
+| "Balinski, A."                | 3     |
+| "Nardin, E."                  | 2     |
+| "da Luz, C.F.P."              | 2     |
+| "Landing, E."                 | 3     |
+| "LONGRICH, N. R."             | 2     |
+| "Boudad, L."                  | 2     |
+| "Kolarsky, R. A."             | 5     |
+| "Wortmann, C."                | 2     |
+| "Micheels, A."                | 3     |
+| "Gischler, E."                | 2     |
+| "Witzke, B. J."               | 5     |
+| "Perkovsky, E. E."            | 3     |
+| "Neuweiler, F."               | 2     |
+| "Norman, M. D."               | 2     |
+| "Racey, A."                   | 2     |
+| "Xu, H."                      | 2     |
+| "Mohite, A.S."                | 3     |
+| "Kaiser, S.I."                | 2     |
+| "Tsubamoto, T."               | 4     |
+| "Kazi, T.G."                  | 2     |
+| "Villas, E."                  | 2     |
+| "Colombero, S."               | 2     |
+| "Scott, C.S. "                | 2     |
+| "Agnini, C."                  | 2     |
+| "Copper, P."                  | 2     |
+| "Roniewicz, E."               | 3     |
+| "Bomfleur, B."                | 3     |
+| "Artal, P."                   | 3     |
+| "Gebo, D.L."                  | 2     |
+| "Luo, H."                     | 2     |
+| "Pfretzschner, H. U."         | 2     |
+| "de Rafelis, M."              | 3     |
+| "Poinar, G."                  | 5     |
+| "WILSON, J. A."               | 2     |
+| "Gunnell, Y."                 | 2     |
+| "Aretz, M."                   | 2     |
+| "Lopez-Gomez, J."             | 2     |
+| "Jorissen, F. J."             | 2     |
+| "Ghienne, J. F."              | 2     |
+| "Matsubara, T."               | 2     |
+| "Schweitzer, C. E."           | 4     |
+| "Sander, P. M."               | 3     |
+| "Keller, G. R."               | 3     |
+| "Nel, A."                     | 6     |
+| "Godefroit, P."               | 6     |
+| "Adatte, T."                  | 2     |
+| "Young, G. A."                | 2     |
+| "Fuchs, D."                   | 5     |
+| "Peigne, S."                  | 2     |
+| "Liu, Q."                     | 5     |
+| "Donato, M."                  | 2     |
+| "Fatka, O."                   | 2     |
+| "Pelosi, P."                  | 2     |
+| "Laughland, M. M."            | 4     |
+| "Jacques, F. M."              | 2     |
+| "Buchner, J."                 | 2     |
+| "Mackness, B."                | 2     |
+| "Arche, A."                   | 2     |
+| "Bassi, D."                   | 3     |
+| "Kapilima, S."                | 2     |
+| "Mao, Y.-q."                  | 2     |
+| "Parent, H."                  | 3     |
+| "BRADDY, S. J."               | 2     |
+| "Smellie, J. L."              | 3     |
+| "ORTEGA-HERNANDEZ, J."        | 2     |
+| "Debenay, J. P."              | 2     |
+| "SANTOS, A."                  | 2     |
+| "Roth-Nebelsick, A."          | 2     |
+| "Gong, Y.-m."                 | 2     |
+| "Jin, J."                     | 3     |
+| "Jacobs, L.L."                | 3     |
+| "Currano, E. D."              | 2     |
+| "McCartney, K."               | 3     |
+| "Rigby, J. K."                | 2     |
+| "Li, X."                      | 2     |
+| "Beard, K.C."                 | 3     |
+| "KETCHUM, H. F."              | 2     |
+| "Biakov, A. S."               | 2     |
+| "Simpson, E."                 | 3     |
+| "Legalov, A. A."              | 3     |
+| "Danelian, T."                | 2     |
+| "Kurochkin, E. N."            | 4     |
+| "Werne, J. P."                | 3     |
+| "Baceta, J. I."               | 2     |
+| "Kurkin, A. A."               | 2     |
+| "Castaneda, I. S."            | 2     |
+| "Brower, J.C."                | 2     |
+| "Poore, R. Z."                | 2     |
+| "Lei, Q."                     | 2     |
+| "Yazdi, M."                   | 3     |
+| "Warner, R. D."               | 2     |
+| "FREDIN, O."                  | 2     |
+| "Schmiedl, G."                | 2     |
+| "Chen, X."                    | 2     |
+| "Li, G."                      | 2     |
+| "Wilmsen, M."                 | 2     |
+| "Schindler, E."               | 4     |
+| "Agnihotri, D."               | 2     |
+| "Kawahata, H."                | 3     |
+| "Martin, T."                  | 2     |
+| "Huang, B."                   | 2     |
+| "Wang, Y.-Q."                 | 5     |
+| "Bucur, I. I."                | 2     |
+| "BUATOIS, L. A."              | 2     |
+| "Gardin, S."                  | 3     |
+| "Loser, H."                   | 3     |
+| "Tang, P."                    | 3     |
+| "Gordenko, N. V."             | 2     |
+| "Khlystov, O. M."             | 2     |
+| "Hua, H."                     | 2     |
+| "Wang, B.-Y."                 | 2     |
+| "Gupta, A. K."                | 2     |
+| "Rodrigues, T."               | 4     |
+| "Suguio, K."                  | 2     |
+| "Eiriksson, J."               | 3     |
+| "KLUG, C."                    | 2     |
+| "Xu, X."                      | 2     |
+| "Cetean, C.G."                | 2     |
+| "Keupp, H."                   | 2     |
+| "Verleye, T. J."              | 2     |
+| "Sato, T."                    | 4     |
+| "Talbot, M. R."               | 3     |
+| "Johnsson, M. J."             | 3     |
+| "Archer, M."                  | 3     |
+| "Zammit, M."                  | 2     |
+| "Takai, M."                   | 4     |
+| "Tanabe, K."                  | 2     |
+| "Schouten, S."                | 2     |
+| "Bugdaeva, E. V."             | 2     |
+| "Thewissen, J.G.M."           | 2     |
+| "Dupont-Nivet, G."            | 2     |
+| "ZHANG, J."                   | 2     |
+| "Mazurier, A."                | 2     |
+| "Di Geronimo, R."             | 2     |
+| "KAMMER, T. W."               | 2     |
+| "Hess, H."                    | 3     |
+| "Baumann, K. H."              | 4     |
+| "Ma, X.-p."                   | 3     |
+| "Bernardi, M."                | 2     |
+| "Becker, R. T."               | 2     |
+| "Viccini, L.F."               | 2     |
+| "Taheri, A."                  | 2     |
+| "Wanamaker, A. D."            | 4     |
+| "Laurin, M."                  | 2     |
+| "Black, K."                   | 2     |
+| "Oji, T."                     | 2     |
+| "de Bonis, L."                | 2     |
+| "Hunter, S. J."               | 2     |
+| "Guipert, G."                 | 2     |
+| "Matthews, T."                | 2     |
+| "Haga, T."                    | 2     |
+| "Hann, H. P."                 | 2     |
+| "Palfy, J."                   | 3     |
+| "Cather, S. M."               | 2     |
+| "Rasmusson, E. L."            | 2     |
+| "van den Hoek Ostende, L.W. " | 2     |
+| "Whitlock, C."                | 3     |
+| "Alvaro, J. J."               | 2     |
+| "Li, C.-K."                   | 4     |
+| "Yang, L."                    | 2     |
+| "Buggisch, W."                | 2     |
+| "Jain, U."                    | 3     |
+| "Ragland, P. C."              | 3     |
+| "Kim, J.-K."                  | 2     |
+| "Gibb, S."                    | 3     |
+| "Yan, E. V."                  | 2     |
+| "Viohl, G."                   | 2     |
+| "Joachimski, M. M."           | 3     |
+| "Sial, A. N."                 | 3     |
+| "Valentini, M."               | 2     |
+| "Gaillard, C."                | 2     |
+| "Wang, Y. J."                 | 2     |
+| "Zack, T."                    | 2     |
+| "Golovneva, L. B."            | 4     |
+| "Mayr, G."                    | 5     |
+| "Bettis, E. A."               | 2     |
+| "Hori, R. S."                 | 3     |
+| "Kaminski, M.A."              | 4     |
+| "Elias, R. J."                | 2     |
+| "Shah, U.H."                  | 2     |
+| "Hospitaleche, C. A."         | 3     |
+| "Erslev, E. A."               | 2     |
+| "Hoffmann, R."                | 2     |
+| "Leven, E. J."                | 2     |
+| "Currie, P.J."                | 2     |
+| "Willard, D. A."              | 2     |
+| "Kroger, B."                  | 4     |
+| "GUEX, J."                    | 2     |
+| "Kroeger, K. F."              | 2     |
+| "Fraaije, R.H.B."             | 2     |
+| "Namuth, D."                  | 2     |
+| "Du, S.-x."                   | 2     |
+| "Nara, M."                    | 3     |
+| "Torricelli, S."              | 2     |
+| "Holliday, V. T."             | 2     |
+| "Grenfell, H. R."             | 2     |
+| "Nalin, R."                   | 2     |
+| "Kurita, H."                  | 2     |
+| "Ippolito, J."                | 5     |
+| "Grossman, E. L."             | 2     |
+| "Soreghan, M. J."             | 2     |
+| "Wilson, M.A."                | 2     |
+| "Guichard, F."                | 2     |
+| "Mapes, R.H."                 | 2     |
+| "Nespoulet, R."               | 2     |
+| "Graeff, F. G."               | 2     |
+| "Shi, G. R."                  | 5     |
+| "Fosse, P."                   | 2     |
+| "Altiner, D."                 | 2     |
+| "Molinaroli, E."              | 2     |
+| "Puffer, J. H."               | 2     |
+| "Lee, D.-G."                  | 2     |
+| "Martinez, S.A."              | 2     |
+| "BENNIKE, O."                 | 4     |
+| "Janvier, P."                 | 2     |
+| "Lockley, M."                 | 3     |
+| "Rice, C. L."                 | 6     |
+| "Schone, B. R."               | 3     |
+| "Bernasconi, S. M."           | 2     |
+| "Faure, M."                   | 2     |
+| "Peel, J.S."                  | 2     |
+| "Yans, J."                    | 2     |
+| "Mannik, P."                  | 2     |
+| "Smith, C. J."                | 2     |
+| "Arnaud-Vanneau, A."          | 2     |
+| "Meng, J."                    | 5     |
+| "Marzouk, A. M."              | 2     |
+| "Ronchi, A."                  | 3     |
+| "Shigeta, Y."                 | 3     |
+| "Naugolnykh, S. V."           | 2     |
+| "Whatley, R."                 | 2     |
+| "Rakowicz, L."                | 2     |
+| "Hao, W.-C."                  | 2     |
+| "Morner, P."                  | 5     |
+| "Guerin, C."                  | 7     |
+| "Laza, J. H."                 | 2     |
+| "Hikida, Y."                  | 2     |
+| "Botquelen, A."               | 2     |
+| "Balter, V."                  | 2     |
+| "Zalasiewicz, J."             | 2     |
+| "Diedrich, C."                | 4     |
+| "Dabard, M. P."               | 3     |
+| "Zhu, R."                     | 2     |
+| "Incarbona, A."               | 2     |
+| "Wappler, T."                 | 2     |
+| "Fielding, C. R."             | 2     |
+| "Lockley, M. G."              | 2     |
+| "Perez, L. M."                | 2     |
+| "Benedito, E."                | 2     |
+| "Deutsch, A."                 | 2     |
+| "Zaton, M."                   | 4     |
+| "Mackensen, A."               | 3     |
+| "Hagadorn, J.W."              | 2     |
+| "El Hajraoui, M. A."          | 2     |
+| "de Lumley, H."               | 2     |
+| "Tekin, U. K."                | 2     |
+| "Missiaen, P."                | 3     |
+| "Merle, D."                   | 2     |
+| "AHLBERG, P."                 | 4     |
+| "Agnolin, F.L."               | 2     |
+| "Pospelova, V."               | 3     |
+| "DeSantis, M. K."             | 2     |
+| "Bojar, A. V."                | 3     |
+| "Quillevere, F."              | 2     |
+| "Giusberti, L."               | 2     |
+| "Renaud, S."                  | 2     |
+| "Knudsen, K. L."              | 2     |
+| "Yu, J."                      | 2     |
+| "Genovese, P. W."             | 2     |
+| "Kaim, A."                    | 3     |
+| "Veres, D."                   | 2     |
+| "Weyer, D."                   | 2     |
+| "Jasper, A."                  | 3     |
+| "Kool, L."                    | 2     |
+| "Scourse, J. D."              | 2     |
+| "Averianov, A. O."            | 3     |
+| "Walker, R. J."               | 2     |
+| "Tseng, Z.J."                 | 3     |
+| "Pickering, S. J."            | 2     |
+| "Nicora, A."                  | 3     |
+| "Woodard, H. J."              | 4     |
+| "Shukla, U. K."               | 2     |
+| "Saber, H."                   | 3     |
+| "Kakegawa, T."                | 2     |
+| "Ruta, M."                    | 2     |
+| "Grigorescu, D."              | 8     |
+| "Schemm-Gregory, M."          | 3     |
+| "Hain, P."                    | 2     |
+| "Girty, M. S."                | 2     |
+| "PATERSON, J. R."             | 2     |
+| "Raisbeck, G. M."             | 2     |
+| "Marino, M."                  | 2     |
+| "Ushatinskaya, G. T."         | 2     |
+| "Vinn, O."                    | 7     |
+| "Mackizadeh, M.A. "           | 3     |
+| "Berner, Z."                  | 2     |
+| "Rossignol, L."               | 2     |
+| "Choi, D.K."                  | 2     |
+| "BENTON, M. J."               | 3     |
+| "Angiolini, L."               | 2     |
+| "Kitazato, H."                | 2     |
+| "Sano, H."                    | 2     |
+| "Weishampel, D. B."           | 3     |
+| "Kostak, M."                  | 2     |
+| "Quinn, T. M."                | 3     |
+| "Ebbighausen, V."             | 5     |
+| "Peters, D."                  | 2     |
+| "Hu, S.-x."                   | 2     |
+| "Syabryaj, S."                | 2     |
+| "Schweizer, M."               | 2     |
+| "Taylor, P. D."               | 2     |
+| "Paris, F."                   | 3     |
+| "Gonzalez, L. A."             | 2     |
+| "Del-Ben, C. M."              | 2     |
+| "Eronen, J. T."               | 2     |
+| "Bajpai, S."                  | 3     |
+| "Hably, L."                   | 4     |
+| "Nishimura, T."               | 2     |
+| "Joshi, M."                   | 3     |
+| "Azanza, B."                  | 2     |
+| "Girone, A."                  | 2     |
+| "Gunnell, G.F."               | 3     |
+| "Jacob, D. E."                | 3     |
+| "Hminna, A."                  | 3     |
+| "Sanchez-Vidal, A."           | 2     |
+| "Vavra, N."                   | 2     |
+| "Bond, D. P."                 | 2     |
+| "Gand, G."                    | 2     |
+| "Abbassi, N."                 | 2     |
+| "Mattioli, E."                | 4     |
+| "Droser, M. L."               | 2     |
+| "Johnson, A. L."              | 3     |
+| "Ouchaou, B."                 | 2     |
+| "Kelson, K. I."               | 2     |
+| "Matsushita, M."              | 2     |
+| "Raveendran, K."              | 2     |
+| "Tomasovych, A."              | 2     |
+| "Walia, S.S."                 | 2     |
+| "Arthur, J. D."               | 2     |
+| "Scheibner, C."               | 2     |
+| "Wilde, V."                   | 3     |
+| "Avanzini, M."                | 4     |
+| "Nutzel, A."                  | 4     |
+| "McCallister, D."             | 5     |
+| "Isbell, J. L."               | 2     |
+| "Xue, J.-z."                  | 2     |
+| "Schwarzhans, W."             | 2     |
+| "Dybkjaer, K."                | 2     |
+| "Gomez, J. J."                | 2     |
+| "Burnham, D. A."              | 2     |
+| "Perez-Claros, J.A."          | 2     |
+| "Weil, A."                    | 2     |
+| "Zhu, Y. X."                  | 2     |
+| "Yan, X."                     | 2     |
+| "YATES, A. M."                | 2     |
+| "Rakus, M."                   | 2     |
+| "Gerber, S."                  | 2     |
+| "Sharma, V.K."                | 3     |
+| "Deng, C."                    | 2     |
+| "Fiorillo, A. R."             | 3     |
+| "Spofforth, D. J."            | 2     |
+| "Deng, T."                    | 3     |
+| "Tomkin, J. H."               | 2     |
+| "Tong, J."                    | 5     |
+| "Qin, Q."                     | 2     |
+| "Song, C."                    | 2     |
+| "Senter, P."                  | 2     |
+| "Vaziri-Moghaddam, H."        | 2     |
+| "Stinnesbeck, W."             | 6     |
+| "Popov, L."                   | 2     |
+| "Boulbes, N."                 | 2     |
+| "Mostafawi, N."               | 2     |
+| "Santi, G."                   | 2     |
+| "Manabe, M."                  | 2     |
+| "Nikolaeva, S. V."            | 2     |
+| "Rinehart, L. F."             | 2     |
+| "Megard, R. O."               | 2     |
+| "Hammond, R. H."              | 3     |
+| "Guerra-Sommer, M."           | 4     |
+| "Carnevale, G."               | 2     |
+| "Chen, X.-h."                 | 2     |
+| "Vajda, V."                   | 3     |
+| "Hill, D. J."                 | 4     |
+| "Ran, L."                     | 2     |
+| "Friedman, G. M."             | 2     |
+| "Collette, J.H."              | 3     |
+| "Feng, Q. L."                 | 2     |
+| "Lettis, W. R."               | 4     |
+| "Troth, I."                   | 2     |
+| "Nelson, A. E."               | 2     |
+| "Gong, E."                    | 2     |
+| "Tang, L."                    | 2     |
+| "Gordon Gastil, R."           | 3     |
+| "Dreimanis, A."               | 2     |
+| "Bourquin, S."                | 2     |
+| "Delfino, M."                 | 4     |
+| "Bruch, A. A."                | 7     |
+| "Trenkwalder, S."             | 2     |
+| "Saltzman, M. R."             | 2     |
+| "Pemberton, S. G."            | 4     |
+| "Wings, O."                   | 3     |
+| "Li, C. S."                   | 4     |
+| "Francis, C. A."              | 2     |
+| "Nosova, N. V."               | 2     |
+| "Wang, H."                    | 3     |
+| "Dias-da-Silva, S."           | 2     |
+| "Nichols, D. J."              | 2     |
+| "Rozhnov, S. V."              | 2     |
+| "Payne, J.L."                 | 3     |
+| "KAIM, A."                    | 2     |
+| "Dong, X."                    | 2     |
+| "Cleal, C. J."                | 2     |
+| "Tabor, N. J."                | 3     |
+| "Zhou, Z."                    | 3     |
+| "Witzmann, F."                | 2     |
+| "Siebel, W."                  | 2     |
+| "Bambach, R.K."               | 2     |
+| "Anderson, R. R."             | 2     |
+| "Chauhan, M."                 | 2     |
+| "Wooden, J. L."               | 2     |
+| "LITTLE, C. T."               | 2     |
+| "Li, C."                      | 4     |
+| "Wang, Y."                    | 16    |
+| "Schiavetti, A."              | 2     |
+| "Krijgsman, W."               | 4     |
+| "Michel, E."                  | 2     |
+| "Jurkiewicz, A."              | 2     |
+| "Zhao, Y.-l."                 | 6     |
+| "Leng, M. J."                 | 6     |
+| "BARBER, K. E."               | 2     |
+| "Prokin, A. A."               | 2     |
+| "Kang, S. M."                 | 2     |
+| "Lirer, F."                   | 3     |
+| "Tarkalson, D."               | 2     |
+| "WAGNER, B."                  | 3     |
+| "Frank, T. D."                | 2     |
+| "Kumar, A."                   | 2     |
+| "Lamanna, M.C. "              | 3     |
+| "Claeson, K. M."              | 2     |
+| "Judson May, S."              | 2     |
+| "Evans, J. P."                | 3     |
+| "Bashforth, A. R."            | 2     |
+| "Bottjer, D. J."              | 3     |
+| "Stuiver, M."                 | 2     |
+| "Peng, S."                    | 2     |
+| "Boulila, S."                 | 2     |
+| "Gupta, S."                   | 2     |
+| "Sunderlin, D."               | 2     |
+| "Lagnaoui, A."                | 2     |
+| "Wang, X.-M."                 | 2     |
+| "Kalpana, G.V."               | 2     |
+| "Ma, J.-y."                   | 2     |
+| "Sun, Y.-L."                  | 2     |
+| "Santos, R.V."                | 2     |
+| "Dutta, P. K."                | 3     |
+| "Retallack, G. J."            | 5     |
+| "Hints, O."                   | 2     |
+| "MENZIES, J."                 | 2     |
+| "Kucera, M."                  | 2     |
+| "Molnar, P."                  | 2     |
+| "Codrea, V."                  | 5     |
+| "Watabe, M."                  | 3     |
+| "Hargraves, R. B."            | 2     |
+| "Matsuoka, A."                | 3     |
+| "Huh, M."                     | 5     |
+| "Dong, W."                    | 2     |
+| "Weems, R. E."                | 3     |
+| "Macluf, C."                  | 2     |
+| "Seyed-Emami, K."             | 2     |
+| "Angelone, C."                | 5     |
+| "Brook, E. J."                | 2     |
+| "Erba, E."                    | 2     |
+| "Dulai, A."                   | 2     |
+| "Dommergues, J.-L."           | 2     |
+| "Wu, X.-C."                   | 2     |
+| "Dumitrica, P."               | 2     |
+| "Kiessling, W."               | 2     |
+| "Bockwinkel, J."              | 3     |
+| "ANTCLIFFE, J. B."            | 2     |
+| "Sorauf, J. E."               | 3     |
+| "Szentesi, Z."                | 2     |
+| "Renesto, S."                 | 2     |
+| "Slemmons, D. B."             | 3     |
+| "He, X.-y."                   | 2     |
+| "Aljinovic, D."               | 3     |
+| "Montalti, D."                | 2     |
+| "Isaji, S."                   | 2     |
+| "Philippe, M."                | 2     |
+| "Thebault, J."                | 2     |
+| "BENSON, R. B."               | 2     |
+| "Eynaud, F."                  | 2     |
+| "Brusatte, S. L."             | 2     |
+| "Yu, Z."                      | 2     |
+| "Wright, H. E."               | 2     |
+-----------------------------------------

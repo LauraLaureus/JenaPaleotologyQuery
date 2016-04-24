@@ -7,7 +7,7 @@ PREFIX rda:<http://RDVocab.info/Elements>
 PREFIX rdfs:<http://www.w3.org/2000/01/rdf-schema#>
 
 
-SELECT ?issn (count(?issn) as ?count)
+SELECT (count(?title) as ?count)
 WHERE {
-?v dcterms:isPartOf/dcterms:isPartOf/bibo:issn ?issn .
-} GROUP BY ?issn
+?v dcterms:title ?title .
+}

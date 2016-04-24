@@ -1,0 +1,8 @@
+Jena por consola:::
+
+cd carpeta de Jena
+
+set JENA_HOME=/Users/Loedded/Desktop/apache-jena-3.0.1 
+bin/sparql.bat --version
+
+bin/sparql --data=datos.ttl --query=consulta.rq  --- PARA LAS CONSULTAS
